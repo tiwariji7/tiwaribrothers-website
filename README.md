@@ -42,34 +42,6 @@ This website represents the professional identity of **Tiwari Brothers**, built 
 
 ---
 
-## 📁 Project Structure
-
-project-root/
-│
-├── assets/
-│ └── services/
-│ ├── infrastructure-construction.jpg
-│ ├── aluminium-glass-works.jpg
-│ ├── fabrication-structural-works.jpg
-│ ├── interior.jpg
-│ └── custom-project.jpg
-│
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── constants/
-│ ├── types/
-│ ├── App.tsx
-│ └── main.tsx
-│
-├── index.html
-├── package.json
-├── vite.config.ts
-└── README.md
-
-
----
-
 👨‍💻 Developed By
 
 Developed with ❤️ by Shivam Tiwari
